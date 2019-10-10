@@ -55,9 +55,12 @@ INSERT INTO `bcnm_treasure_chests` VALUES ('35', '1', '17350935');
 INSERT INTO `bcnm_treasure_chests` VALUES ('36', '1', '17350938');
 
 -- Waughroon Shrine
-INSERT INTO `bcnm_treasure_chests` VALUES ('81', '1', '17367089');
-INSERT INTO `bcnm_treasure_chests` VALUES ('81', '2', '17367093');
-INSERT INTO `bcnm_treasure_chests` VALUES ('81', '3', '17367097');
+INSERT INTO `bcnm_treasure_chests` VALUES ('74', '1', '17367089'); -- crustacean_conundrum
+INSERT INTO `bcnm_treasure_chests` VALUES ('74', '2', '17367093');
+INSERT INTO `bcnm_treasure_chests` VALUES ('74', '3', '17367097');
+INSERT INTO `bcnm_treasure_chests` VALUES ('81', '1', '17367272'); -- operation_desert_swarm
+INSERT INTO `bcnm_treasure_chests` VALUES ('81', '2', '17367279');
+INSERT INTO `bcnm_treasure_chests` VALUES ('81', '3', '17367286');
 INSERT INTO `bcnm_treasure_chests` VALUES ('76', '1', '17367101');
 INSERT INTO `bcnm_treasure_chests` VALUES ('76', '2', '17367105');
 INSERT INTO `bcnm_treasure_chests` VALUES ('76', '3', '17367109');
